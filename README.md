@@ -9,7 +9,8 @@ I've made a series of custom electronic modifications to my **2000 Lexus GS300**
 ### **Sound**
 - **Subwoofers**: Two subwoofers in the trunk inside a custom-built box, connected to an amplifier under the passenger seat.  
   - **Wiring**: Direct connection to the battery for sufficient power.  
-  - **Head Unit**: Retains the factory unit with added CarPlay and other modern features.
+- **Head Unit**: Aftermarket unit with built-in CarPlay and modern functionality.  
+  - Installed using a provided wiring harness, requiring no custom wiring.
 
 ### **Risk Mitigation**
 - **Radar Detector**: A Uniden R8 radar detector.  
@@ -28,12 +29,27 @@ I've made a series of custom electronic modifications to my **2000 Lexus GS300**
 
 ---
 
+## Wiring Standards
+
+### **Factory Wiring vs. Custom Wiring**
+- **Factory Wiring**: Unmarked and adheres to the original color coding from the manufacturer.
+- **Custom Wiring**: Identified with **green electrical tape** wrapped around the wire every 12 inches. This makes it easy to distinguish from the factory wiring.
+
+### **Color Code for Custom Wiring**
+| **Color**  | **Function**               |
+|------------|----------------------------|
+| Red        | +12V Power (constant)      |
+| Black      | Ground                     |
+| Yellow     | Ignition Controlled Power  |
+
+---
+
 ## Component Descriptions
 
 ### **Subwoofers**
 - **Location**: Trunk, inside a custom-built enclosure.
 - **Amplifier**: Installed under the passenger seat and connected directly to the car battery for sufficient power delivery.
-- **Head Unit**: Factory-installed but upgraded for CarPlay and modern functionality.
+- **Head Unit**: An aftermarket unit with built-in CarPlay and modern functionality, installed using the provided harness.
 
 ### **Radar Detector**
 - **Model**: Uniden R8.
